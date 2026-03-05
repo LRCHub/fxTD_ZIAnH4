@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "真夏の夜の夢",
+  "base_artist": "松任谷由実",
+  "createdAt": "2026-03-05T19:17:52.917041Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "真夏の夜の夢",
+      "artist": "Yumi Matsutoya",
+      "has_synced": false,
+      "path": "select/01_真夏の夜の夢_Yumi_Matsutoya.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "真夏の夜の夢",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/02_真夏の夜の夢_松任谷由実.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "真夏の夜の夢 (2022 mix) - A Midsummer Night's Dream / Manatsu No Yo No Yume (2022 Ｍix)",
+      "artist": "Yumi Matsutoya",
+      "has_synced": true,
+      "path": "select/03_真夏の夜の夢_(2022_mix)_-_A_Midsummer_Night's_Dream___Manatsu_No_Yo_No_Yume_(2022_Mix)_Yumi_Matsutoya.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "真夏の夜の夢",
+      "artist": "松任谷由実/荒井由実",
+      "has_synced": false,
+      "path": "select/04_真夏の夜の夢_松任谷由実_荒井由実.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "真夏の夜の夢",
+      "artist": "Yumi Matsutoya",
+      "has_synced": true,
+      "path": "select/05_真夏の夜の夢_Yumi_Matsutoya.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "真夏の夜の夢 [2022 Mix]",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/06_真夏の夜の夢_[2022_Mix]_松任谷由実.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "真夏の夜の夢",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/07_真夏の夜の夢_松任谷由実.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "真夏の夜の夢 - 2022 mix",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/08_真夏の夜の夢_-_2022_mix_松任谷由実.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "真夏の夜の夢 (2022 mix)",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/09_真夏の夜の夢_(2022_mix)_松任谷由実.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "真夏の夜の夢",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_01_真夏の夜の夢_松任谷_由実.txt"
+    }
+  ]
+}
